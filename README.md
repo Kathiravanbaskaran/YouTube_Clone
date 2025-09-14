@@ -22,6 +22,7 @@ The focus of this project is on **layout, responsiveness, and clean UI design**.
 ---
 
 ## 📂 Project Structure
+```
 📦 YouTube-Clone
 ┣ 📂 img
 ┃ ┣ 📂 icon
@@ -35,7 +36,7 @@ The focus of this project is on **layout, responsiveness, and clean UI design**.
 ┃ ┗ video.css
 ┣ index.html
 ┗ README.md
-
+```
 ---
 
 ## 🎯 How to Run
@@ -74,6 +75,8 @@ The focus of this project is on **layout, responsiveness, and clean UI design**.
 
 * Basics of responsive design using media queries
 
+* Learned CSS from **SuperSimpleDev**
+
 ---
 
 ## 🌟 Future Improvements
@@ -87,4 +90,5 @@ The focus of this project is on **layout, responsiveness, and clean UI design**.
 
 👤 Author
 Prem Paramanick
+
 🚀 Taking my first steps into frontend development ❤️
