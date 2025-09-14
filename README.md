@@ -89,6 +89,11 @@ The focus of this project is on **layout, responsiveness, and clean UI design**.
 ---
 
 👤 Author
-Prem Paramanick
+
+Prem Sanat Paramanick
+
+B.Tech SY ECS
+
+Student @Pillai College of Engineering
 
 🚀 Taking my first steps into frontend development ❤️
